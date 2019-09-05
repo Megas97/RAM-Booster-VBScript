@@ -1,4 +1,4 @@
-# RAM-Booster-VBScripts
+# RAM-Booster-VBScript
 Video: https://youtu.be/q2tn4H5xW0w?t=125
 
 Vbs: http://www.mediafire.com/file/vaiys3q7u42s2jb/RAM_Booster.vbs/file
